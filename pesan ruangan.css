@@ -1,0 +1,17 @@
+.jumbotron {
+	margin-top: 2%;
+}
+input{
+	margin-left: 3%;
+}
+.form-row{
+	margin-top: 2%;
+	margin-left: -1%
+}
+.form-group{
+	margin-top: 2%;
+	margin-left: -3%
+}
+button {
+	width: 48.5%;
+}
