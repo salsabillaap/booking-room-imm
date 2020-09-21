@@ -1,1 +1,1 @@
-# booking-room-imm
+# booking-class-imm
